@@ -265,7 +265,9 @@ server <- function(input, output, session) {
                   text = ~paste0("Year: ", Year, "\nEnrolments: ", Total_Enrolments)) %>%
       layout(yaxis = list(title = "Total Number of Students", titlefont = titlefont, tickfont = tickfont),
              xaxis = list(tickangle = 35, title = "Year", titlefont = titlefont, tickfont = tickfont),
-             margin = margin)
+             margin = margin) %>%
+      add_annotations(x = 2012, y = 513136, text = "visa changes, raising dollar, bad experience for int student", showarrow = T, ax = -20, ay = 40) %>%
+      add_annotations(x = 2016, y= 709277, text = "student growth dominated by China \n growth 40% since 2012", showarrow = T, ax = -80, ay = -40)
   })
   
   
