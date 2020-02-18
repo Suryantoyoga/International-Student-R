@@ -23,7 +23,7 @@ The heat maps shows that students from Victoria, New South Wales, and Queensland
 Northern Territory has the smallest number of students compared to other states.
 The gap between higher education students and other sector of education in ACT is big, it has different pattern than the other State
 
-## Top 10 Nationalities by enrolments
+## Top 10 Nationalities by enrolments (third graph)
 This graph can help goverment to devise marketing strategies, and prepare international students who will stay in Australia. 
 There have been many changes in the number of international students from each country over the past 18 years. For example, Indonesia in 2002 ranks second with 21.000 students. The number didn't changes much and make Indonesia ranks last in 2018. 
 India and Nepal have significant growth across the year and make them rank 2 and 3 from the bottom in 2002.
